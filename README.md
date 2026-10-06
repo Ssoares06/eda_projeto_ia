@@ -89,3 +89,4 @@ Python 3, Pandas, NumPy, Matplotlib, Seaborn, Plotly e Jupyter.
 | André Soares Gomes dos Santos Junior | 17251365 |
 | João Pedro Prysthon Paiva da Fonseca Oliveira | 17242226 |
 | Natália Almeida Silva dos Santos | 17242210 |
+|Júlio César Rodrigues Bezerra | 17242150 |
